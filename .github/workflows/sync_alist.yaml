@@ -1,6 +1,6 @@
 name: CheckAList
 
-on:
+1on:
   schedule:
     - cron: "0 5,17 * * *" # 每日5点和17点执行
   workflow_dispatch:
